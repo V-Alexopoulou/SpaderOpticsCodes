@@ -3,8 +3,8 @@
 Code used to build the **SpaderOptics database** (optical, solar-interaction, thermal-emission and
 equilibrium-temperature data of materials for space applications) and the **SpaderOptics App**.
 
-- Database (Zenodo): "10.5281/zenodo.23643910"
-- This code (archived on Zenodo): <software DOI>
+- Database (Zenodo): https://doi.org/10.5281/zenodo.23643910
+- This code (archived on Zenodo): https://doi.org/10.5281/zenodo.23645807
 - Paper: <reference / DOI>
 
 > The database file `SpaderOptics.mat` (about 1.4 GB) is **not** stored in this repository.
